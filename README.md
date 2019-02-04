@@ -33,6 +33,7 @@ docker run -p 8000:8000 -v /local/path/to/icecast.xml:/etc/icecast2/icecast.xml 
 ![](https://i.imgur.com/vukR09G.png)
 
 **butt setting**
-![butt example](https://i.imgur.com/EA3XF7U.jpg)
+![butt](https://i.imgur.com/kazeM0i.png)
+![butt connection](https://i.imgur.com/rPlpVC7.png)
 
 7. 所有設定已完成，直接用瀏覽器點開廣播的位址（mountpoint）即可。
