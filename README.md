@@ -11,7 +11,7 @@
 
 ## 步驟
 
-1. 選擇一個順手的 icecast docker images，以下這些都可以。（[moul/icecast](https://hub.docker.com/r/moul/icecast)、[infiniteproject/icecast](https://hub.docker.com/r/infiniteproject/icecast)），本範例以 [moul/icecast](https://github.com/moul/docker-icecast) 來說明。
+1. 選擇一個順手的 icecast docker images，以下這些都可以。（[moul/icecast](https://hub.docker.com/r/moul/icecast)、[infiniteproject/icecast](https://hub.docker.com/r/infiniteproject/icecast)），本範例以 [moul/icecast](https://github.com/moul/docker-icecast) 來說明。（如果你對於技術細節有興趣，可以參考[這裡](https://blog.sylee.tw/play-icecast-and-those-tear)。）
 2. 安裝並運行 [docker](https://docs.docker.com/install/)。
 3. 執行以下指令啟用 icecast 伺服端，你可能會需要修改的是 **ICECAST_SOURCE_PASSWORD（轉播端的密碼）** 以及 **ICECAST_ADMIN_PASSWORD（管理者密碼）**
 
